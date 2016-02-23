@@ -1,0 +1,1 @@
+select * from SLOG WITH (NOLOCK)  where JOBNAME = 'B40MAS' order by SEQUENCE desc,STATUS

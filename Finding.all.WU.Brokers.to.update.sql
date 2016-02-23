@@ -1,0 +1,1 @@
+select * from dbo.ContactBase Where FirstName like 'WU%'
